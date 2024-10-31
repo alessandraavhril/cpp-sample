@@ -8,5 +8,5 @@ int main()
         cout << "Sample code here" << endl;
         cout << "Hello, World!" << endl;
     }
-    return 1;
+    
 }
