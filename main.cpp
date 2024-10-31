@@ -7,5 +7,5 @@ int main()
     while(true){
         cout << "Sample code here" << endl;
     }
-    return 0;
+    return 1;
 }
