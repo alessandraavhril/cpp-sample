@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    while(true){
+        cout << "Sample code here" << endl;
+    }
     return 0;
 }
