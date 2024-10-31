@@ -33,6 +33,7 @@
 
 # Project FIles
 *.cbp
+*.layout
 
 # Auto-Generated Files
 CppSample_build_log.html
